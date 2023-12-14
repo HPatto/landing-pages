@@ -129,13 +129,13 @@ body {
 
 .quote {
     color: #1f2937;
-    font-size: 36px;
+    font-size: 28px;
     font-style: italic;
 }
 
 .source {
     color: #1f2937;
-    font-size: 24px;
+    font-size: 20px;
     font-weight: bold;
 
     text-align: right;
@@ -219,16 +219,17 @@ body {
 }
 
 .content-image {
-    width: 200px;
-    height: 200px;   
+    width: 150px;
+    height: 150px;   
     /* margin: 12px;  */
     border-radius: 6px;
 }
 
 .content-text {
     color: #1f2937;
-    font-size: 20px;
+    font-size: 16px;
     text-align: center;
+    max-width: 200px;
 }
 
 .info {
