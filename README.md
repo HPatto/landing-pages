@@ -20,7 +20,7 @@
 <!-- PROJECT LOGO -->
 <!-- <br />
 <div align="center">
-  <a href="https://github.com/HPatto/etchasketch">
+  <a href="https://github.com/HPatto/landing-pages">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a> -->
 
@@ -29,14 +29,14 @@
   <p align="center">
     The Odin Project
     <br />
-    <!-- <a href="https://github.com/HPatto/etchasketch"><strong>Explore the docs »</strong></a> -->
+    <!-- <a href="https://github.com/HPatto/landing-pages"><strong>Explore the docs »</strong></a> -->
     <br />
     <br />
-    <!-- <a href="https://github.com/HPatto/etchasketch">View Demo</a> -->
+    <!-- <a href="https://github.com/HPatto/landing-pages">View Demo</a> -->
     <!-- · -->
-    <!-- <a href="https://github.com/HPatto/etchasketch/issues">Report Bug</a> -->
+    <!-- <a href="https://github.com/HPatto/landing-pages/issues">Report Bug</a> -->
     <!-- · -->
-    <!-- <a href="https://github.com/HPatto/etchasketch/issues">Request Feature</a> -->
+    <!-- <a href="https://github.com/HPatto/landing-pages/issues">Request Feature</a> -->
   </p>
 </div>
 
@@ -125,7 +125,7 @@ To get a local copy up and running follow these simple example steps. -->
 <!-- 1. Get a free API Key at [https://example.com](https://example.com)
 2. Clone the repo
    ```sh
-   git clone https://github.com/HPatto/etchasketch.git
+   git clone https://github.com/HPatto/landing-pages.git
    ```
 3. Install NPM packages
    ```sh
@@ -157,7 +157,7 @@ The widget can also be accessed through the link in the About section.
 - [X] Flexbox implementation
 - [X] Control of images
 
-<!-- See the [open issues](https://github.com/HPatto/etchasketch/issues) for a full list of proposed features (and known issues). -->
+<!-- See the [open issues](https://github.com/HPatto/landing-pages/issues) for a full list of proposed features (and known issues). -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -198,7 +198,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 Contact avenues can be found in my GitHub profile.
 <!-- Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - henryjpaterson@gmail.com -->
 
-<!-- Project Link: [https://github.com/HPatto/etchasketch](https://github.com/HPatto/etchasketch) -->
+<!-- Project Link: [https://github.com/HPatto/landing-pages](https://github.com/HPatto/landing-pages) -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -216,16 +216,16 @@ Contact avenues can be found in my GitHub profile.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/HPatto/etchasketch.svg?style=for-the-badge
-[contributors-url]: https://github.com/HPatto/etchasketch/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/HPatto/etchasketch.svg?style=for-the-badge
-[forks-url]: https://github.com/HPatto/etchasketch/network/members
-[stars-shield]: https://img.shields.io/github/stars/HPatto/etchasketch.svg?style=for-the-badge
-[stars-url]: https://github.com/HPatto/etchasketch/stargazers
-[issues-shield]: https://img.shields.io/github/issues/HPatto/etchasketch.svg?style=for-the-badge
-[issues-url]: https://github.com/HPatto/etchasketch/issues
-[license-shield]: https://img.shields.io/github/license/HPatto/etchasketch.svg?style=for-the-badge
-[license-url]: https://github.com/HPatto/etchasketch/blob/main/LICENSE
+[contributors-shield]: https://img.shields.io/github/contributors/HPatto/landing-pages.svg?style=for-the-badge
+[contributors-url]: https://github.com/HPatto/landing-pages/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/HPatto/landing-pages.svg?style=for-the-badge
+[forks-url]: https://github.com/HPatto/landing-pages/network/members
+[stars-shield]: https://img.shields.io/github/stars/HPatto/landing-pages.svg?style=for-the-badge
+[stars-url]: https://github.com/HPatto/landing-pages/stargazers
+[issues-shield]: https://img.shields.io/github/issues/HPatto/landing-pages.svg?style=for-the-badge
+[issues-url]: https://github.com/HPatto/landing-pages/issues
+[license-shield]: https://img.shields.io/github/license/HPatto/landing-pages.svg?style=for-the-badge
+[license-url]: https://github.com/HPatto/landing-pages/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/henryjpaterson
 [product-screenshot]: images/screenshot.png
