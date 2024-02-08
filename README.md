@@ -105,14 +105,6 @@ Landing page that serves as a tribute to the later works of Mac Miller.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Acknowledgement
-
-I do not own the album art featured on the webpage.
-<br />
-Images are copyright property of the Mac Miller estate.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 <!-- GETTING STARTED -->
 <!-- ## Getting Started -->
@@ -216,6 +208,7 @@ Contact avenues can be found in my GitHub profile.
 ## Acknowledgments
 
 * The Odin Project
+* The Mac Miller Estate
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
